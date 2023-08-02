@@ -1,12 +1,12 @@
 
 @font-face {
     font-family: jpgothic;
-    src: local("Noto Sans CJK JP"), local("IPAexGothic"), local("Source Han Sans JP");
+    src: local("YuGothic"), local("Yu Gothic"), local("Noto Sans CJK JP"), local("IPAexGothic"), local("Source Han Sans JP");
 }
 
 @font-face {
     font-family: jpmincho;
-    src: local("Noto Serif CJK JP"), local("IPAexMincho"), local("IPAmjMincho"), local("Source Han Serif JP"), local("HanaMinA"), local("HanaMinB");
+    src: local("YuMincho"), local("Yu Mincho"), local("Noto Serif CJK JP"), local("IPAexMincho"), local("IPAmjMincho"), local("Source Han Serif JP"), local("HanaMinA"), local("HanaMinB");
 }
 
 @font-face {
